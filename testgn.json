@@ -1,0 +1,8 @@
+{
+  index: "myindex",
+  body: {
+    query: {
+      match: {
+        title: "test"
+      }
+ }
