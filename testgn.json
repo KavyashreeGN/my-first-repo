@@ -3,6 +3,6 @@
   body: {
     query: {
       match: {
-        title: "test-hp"
+        title: "test-hp",
       }
  }
